@@ -1,0 +1,11 @@
+{
+  "WALLET ADDRESS": "",
+  "PRIVATE KEY": "",
+  "INPUT AMOUNT": 0.01,
+  "MIN INTERVAL": "1",
+  "MAX INTERVAL": "3",
+  "gas price": "3",
+  "max slippage": "1",
+  "encoding": "",
+  "version": "2-12"
+}
